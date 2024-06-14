@@ -1,0 +1,20 @@
+node_modules
+.env
+.DS_Store
+constructor-args.js
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+#photo_overlap
+/photo_overlap/airdrop.csv
+/photo_overlap/outputs/jsons_outputs
+/photo_overlap/outputs/photos_outputs
+
+# solidity-coverage files
+/coverage
+/coverage.json
