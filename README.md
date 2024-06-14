@@ -15,3 +15,7 @@ supported network
   - linea-goerli: 59140,
   - base: 8453,
   - base-sepolia: 84532,
+
+# Where is ABI file?
+ artifacts/contracts/{...}.sol/{...}.json
+ template : artifacts/contracts/membership.sol/XueDAO_Contract_Template.json
