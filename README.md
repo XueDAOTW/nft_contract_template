@@ -15,6 +15,3 @@ supported network
   - linea-goerli: 59140,
   - base: 8453,
   - base-sepolia: 84532,
-
-## Generating Photos and Uploading to IPFS using Pinata
-you can find details in photo_overlap : README.md
